@@ -61,7 +61,7 @@ It is built using **Spring Boot** and **MongoDB**, providing REST APIs for songs
 git clone https://github.com/Shabbir108349/My-Lyrics-Backend-SpringBoot.git
 ```
 ```bash
-cd {YOUR-BACKEND-REPO}
+cd My-Lyrics-Backend-SpringBoot
 ```
 
 
@@ -89,7 +89,7 @@ Go to project directory Open Command prompt run the below command
 mvn clean package
 ```
 ```bash
-java -jar target/{YOUR-APP-NAME}.jar
+java -jar target/stream-0.0.1-SNAPSHOT.jar
 ```
 
 ### ✅ Step 4: Test API
@@ -99,14 +99,12 @@ Open browser or Postman:
 http://localhost:8080/api/health
 ```
 Expected: Ok
-
-
 ---
 
 ## 🔗 Frontend Repository
 
 👉 Frontend Repo:  
-https://github.com/YOUR-USERNAME/YOUR-FRONTEND-REPO
+https://github.com/Shabbir108349/My-Lyrics-Frontend-html-css-js
 
 ## 🔌 API Endpoints
 
